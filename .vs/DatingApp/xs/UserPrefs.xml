@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{6C2AC2AE-F7D0-4F5F-88EE-74AF0939C3F0}|Default">
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Startup.cs">
+    <Files>
+      <File FileName="API/Extensions/IdentityServiceExtensions.cs" />
+      <File FileName="API/Startup.cs" Line="38" Column="34" />
+      <File FileName="API/Extensions/ApplicationServiceExtensions.cs" Line="17" Column="13" />
+      <File FileName="API/Controllers/AccountsController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatingApp" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
